@@ -1,0 +1,19 @@
+/*******tag selector********/
+h1{
+  color: "blue";
+  font-size: 20px;
+}
+
+img:hover{
+  background-color: "gold";
+}
+
+/*********class selector****/
+
+.bacon{ background-color: red;}
+.brocoli{background-color: black;}
+
+/********id selector********/
+#1stid{height: "2o0px"
+color: "black";
+}
